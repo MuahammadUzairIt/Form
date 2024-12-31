@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://www.pngmagic.com/product_images/technology-themed-laptop-background-images-with-futuristic-designs_G2t.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+    form{
+    background-color: rgba(128, 128, 128, 0);
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    background-color: rgb(55, 117, 172);
+    padding: 40px 20px;  
+    margin: 3vw 39vw ;
+    
+    
+}
+input{
+    width: 90%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: rgb(171, 253, 253);
+}
+button{
+    margin-top: 20px;
+    padding: 10px;
+    width: 94%;
+}
